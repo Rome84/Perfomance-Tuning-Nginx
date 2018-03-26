@@ -1,4 +1,4 @@
-# Perfomance-Tunning-Nginx
+# Perfomance-Tuning-Nginx
 
 NGINX Tuning For Best Performance
 =================================
@@ -181,7 +181,7 @@ Socket Sharding in NGINX 1.9.1+ (DragonFly BSD and Linux 3.9+)
 [Multi-threaded](https://nginx.org/r/aio) sending of files is currently supported only Linux.
 Without [`sendfile_max_chunk`](https://nginx.org/r/sendfile_max_chunk) limit, one fast connection may seize the worker process entirely.
 
-Happy Hacking!
+Explore the following!
 --------------
 
 * http://www.codestance.com/tutorials-archive/nginx-tuning-for-best-performance-255
