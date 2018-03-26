@@ -1,4 +1,4 @@
-# Perfomance-Tunning-Nginix
+# Perfomance-Tunning-Nginx
 ### Moved to git repository: https://github.com/denji/nginx-tuning
 
 NGINX Tuning For Best Performance
